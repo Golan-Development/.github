@@ -5,11 +5,6 @@
 
 <br/>
 
-<!-- Logo Icon -->
-<img src="https://github.com/user-attachments/assets/e6f6a139-176d-44ce-9fb8-64e54aa7befb" alt="Golan Development Logo" width="72" />
-
-<br/><br/>
-
 **Enterprise-grade software, built on an Open Core foundation.**
 
 <br/>
@@ -41,15 +36,24 @@
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat\&logo=rust\&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=flat\&logo=bun\&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat\&logo=bun\&logoColor=f7f2e4)
 
 ### 🎨 Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat\&logo=astro\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+
+### 📱 Mobile
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
 
 ### 🚀 DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
