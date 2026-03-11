@@ -5,7 +5,7 @@
 ### *Building the future, one commit at a time.*
 
 [![GitHub followers](https://img.shields.io/github/followers/Golan-Development?style=for-the-badge&logo=github&label=Follow&color=0969da)](https://github.com/Golan-Development)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)](https://github.com/Golan-Development)
+[![Open Core](https://img.shields.io/badge/Model-Open%20Core-orange?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/Golan-Development)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=git)](https://github.com/Golan-Development)
 
 </div>
@@ -14,11 +14,11 @@
 
 ## 🏢 About Us
 
-**Golan Development** is a software development organization focused on crafting high-quality, open-source tools and applications. We believe in clean code, collaborative workflows, and building software that makes a real difference.
+**Golan Development** is a software development organization focused on crafting high-quality, enterprise-grade software products. We operate on the **Open Core** model — our core software is source-available and community-friendly, while advanced enterprise features are offered commercially. Think MinIO, GitLab, or HashiCorp: open at the foundation, powerful at scale.
 
-- 🌍 We build scalable, modern software solutions
-- 🤝 Open to community contributions and collaboration
-- 📖 Committed to open-source development and transparency
+- 🌍 We build scalable, production-ready software solutions
+- 🤝 Community contributions are welcome on the core edition
+- 💼 Enterprise features and support are available for businesses
 - 🔧 Continuously improving our tooling, infrastructure, and developer experience
 
 ---
@@ -65,7 +65,7 @@
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Here's how to get involved:
+We welcome community contributions to the **core edition** of our projects! Here's how to get involved:
 
 1. **Fork** the repository you want to contribute to
 2. **Clone** your fork locally: `git clone https://github.com/<your-username>/<repo>.git`
@@ -79,6 +79,8 @@ Please make sure to:
 - Write or update tests where applicable
 - Update documentation if needed
 - Be respectful and constructive in code reviews
+
+> ⚠️ **Note:** Some repositories may contain both a community-licensed core and proprietary enterprise modules. Contributions are accepted for the community core only. Enterprise features are maintained by the Golan Development team.
 
 ---
 
@@ -98,6 +100,6 @@ Please make sure to:
 
 *"Great software is built by great communities."*
 
-**© Golan Development** — Open source, always.
+**© Golan Development** — Open Core, built for business.
 
 </div>
